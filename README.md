@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Abdul88Canada
-- 👀 I’m interested in web. development
+- 👀 I’m interested in web development
 - 🌱 I’m currently learning creating microservices with Nodejs, Reactjs, MongoDB, and Docker
-- 💞️ I’m looking to collaborate on ...
 
 <!---
 Abdul88Canada/Abdul88Canada is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
